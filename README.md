@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2kTeegawozi
+- 👋 Hi, I’m Tholinhlanhla Mpungose 
 - 👀 I’m interested in ...Full Stack Software Dev(C# JAVA PHYTHON CSS HTML5)
 - 🌱 I’m currently learning ...Software Development
 - 💞️ I’m looking to collaborate on ...Anything relating to programming
