@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Full Stack Software Dev(C# JAVA PHYTHON CSS HTML5)
 - 🌱 I’m currently learning ...Software Development
 - 💞️ I’m looking to collaborate on ...Anything relating to programming
-- 📫 How to reach me ...0711423601 on WhatsApp or tholigawozi@gmail.com
+- 📫 How to reach me ...0652507219 on WhatsApp/call or tholigawozi@gmail.com
 - 😄 Pronouns: ...him 
 - ⚡ Fun fact: ...Nothing funny during debugging
 
